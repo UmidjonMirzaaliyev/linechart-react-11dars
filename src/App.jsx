@@ -1,4 +1,4 @@
-// App.js
+
 import React from "react";
 import LineChart from "./components/Linechart";
 import data from "./data.json";
