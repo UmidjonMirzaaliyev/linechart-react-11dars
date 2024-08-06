@@ -6,7 +6,7 @@ import data from "./data.json";
 function App() {
   return (
     <div className="App">
-      <h1>Linechart React</h1>
+      <h1>Linechart React nima gap</h1>
       <LineChart data={data} />
     </div>
   );
